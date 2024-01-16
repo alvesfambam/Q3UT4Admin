@@ -1,0 +1,224 @@
+logfile opened on Tue Jan 16 11:21:22 2024
+
+------ Server Initialization ------
+Server: ut4_casa
+Hunk_Clear: reset the hunk ok
+Current search path:
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_qvm.pk3 (4 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_021.pk3 (85 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_020.pk3 (295 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_019.pk3 (342 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_018.pk3 (801 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_017.pk3 (734 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_016.pk3 (487 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_015.pk3 (60 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_014.pk3 (510 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_013.pk3 (353 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_012.pk3 (271 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_011.pk3 (478 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_010.pk3 (1423 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_009.pk3 (476 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_008.pk3 (962 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_007.pk3 (368 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_006.pk3 (553 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_005.pk3 (898 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_004.pk3 (558 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_003.pk3 (53 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_002.pk3 (100 files)
+C:\Program Files\UrbanTerror\q3ut4\zUrT43_001.pk3 (759 files)
+C:\Program Files\UrbanTerror\q3ut4\ut4_jumpents.pk3 (8 files)
+C:\Program Files\UrbanTerror/q3ut4
+C:\Program Files\UrbanTerror/q3ut4\download\xut434_ut4_baeza.pk3 (183 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut_rumble.pk3 (66 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut_lostbase.pk3 (101 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut_druglord3_fix.pk3 (220 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_zement_b2.pk3 (153 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_wildwest.pk3 (231 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_waterworks_a3.pk3 (139 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_village.pk3 (140 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_venezia_b1.pk3 (164 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_urbanduty_b1.pk3 (116 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_twins.pk3 (101 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_turbinehall.pk3 (32 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_toys_release.pk3 (436 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_towerten_a6.pk3 (141 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_tohunga_b8.pk3 (222 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_tohunga_b10.pk3 (190 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_tohunga2_b2.pk3 (311 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_terrorism8.pk3 (114 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_terrorism3_bots.pk3 (186 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_tejen_beta3.pk3 (17 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_superman.pk3 (443 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_sparta_bots.pk3 (185 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_snowcourtyard_b2.pk3 (78 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_smallwall.pk3 (52 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_slumwar.pk3 (142 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_silentechos_beta05.pk3 (36 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_sicily_1943.pk3 (124 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_scramble_v4.pk3 (329 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_santorini_v10.pk3 (308 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_santorini_fixed.pk3 (102 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_rnr_a6.pk3 (49 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_ripwinter_b2.pk3 (420 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_purity_b7.pk3 (133 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_provinggrounds.pk3 (157 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_presidio_v8.pk3 (166 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_prague_v2.pk3 (200 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_poland_b11.pk3 (214 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_persia2.pk3 (34 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_parkinglot_b4.pk3 (189 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_paradise.pk3 (142 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_overgrown_b2.pk3 (464 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_orbital_sl_fixed.pk3 (261 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_orbital_sl.pk3 (260 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_offshore_lilymod1.pk3 (219 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_oaks_b2.pk3 (237 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_nuclearwaste_b3.pk3 (45 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_nam.pk3 (67 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_mrdm01_a1.pk3 (129 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_mountainside_a9.pk3 (152 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_midnight.pk3 (254 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_metrostation_b2.pk3 (84 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_metropolis_b2.pk3 (439 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_library_b2.pk3 (28 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_kingpin_rc4.pk3 (264 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_kingdom_rc6.pk3 (141 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_kaysersberg_a2_lowres.pk3 (372 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_katooine3_a3.pk3 (83 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_katooine2_a2.pk3 (161 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_jungle_ruins_b5.pk3 (63 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_harbortown.pk3 (203 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_granja.pk3 (79 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_goods_b2.pk3 (101 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_ferro.pk3 (92 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_fastnight_b3.pk3 (275 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_facade_b5_fix.pk3 (235 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_edo_b1.pk3 (185 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_dust2_v2.pk3 (31 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_druglord2.pk3 (539 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_desolate_rc1.pk3 (147 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_delisimo_b2.pk3 (176 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_deception_v2.pk3 (155 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_dambridge.pk3 (60 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_crazychristmas.pk3 (94 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_containeryard_b1.pk3 (52 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_containertown.pk3 (73 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_city6.pk3 (163 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_campamento_b6_subots.pk3 (382 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_campamento_b6.pk3 (380 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_boxtrot_x6.pk3 (44 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_bouncycastle_a5.pk3 (82 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_bogazici_b2t.pk3 (232 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_blitzkrieg1.pk3 (116 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_blitzkrieg.pk3 (106 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_bliss_a1.pk3 (39 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_blackhawk_lilymod1.pk3 (143 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_bilbo_rough.pk3 (169 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_beijing_b1.pk3 (151 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_barn.pk3 (81 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_baku_fixed.pk3 (226 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_army3_b2.pk3 (223 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_arena3.pk3 (94 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_arena2.pk3 (13 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_arctica_beta1.pk3 (113 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_arctf6_b2.pk3 (119 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_ambush.pk3 (151 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_abaddon_rc8.pk3 (323 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_abaddon_b5.pk3 (285 files)
+C:\Program Files\UrbanTerror/q3ut4\download\ut4_aardtimes_www2.pk3 (216 files)
+C:\Program Files\UrbanTerror/q3ut4\download\uptown_snow.pk3 (2 files)
+C:\Program Files\UrbanTerror/q3ut4\download\sof2_jor1.pk3 (238 files)
+C:\Program Files\UrbanTerror/q3ut4\download\skycastle.pk3 (58 files)
+C:\Program Files\UrbanTerror/q3ut4\download\rfaknife.pk3 (131 files)
+C:\Program Files\UrbanTerror/q3ut4\download\coconutbeta.pk3 (107 files)
+C:\Program Files\UrbanTerror/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+55902 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\7\sv_maxclients\20\sv_floodprotect\1\capturelimit\0\sv_hostname\Rynos Server\g_followstrict\1\fraglimit\10\timelimit\20\g_swaproles\0\g_roundtime\3\g_hotpotato\2\g_waverespawns\0\g_redwave\15\g_bluewave\15\g_respawndelay\8\g_suddendeath\1\g_maxrounds\0\g_friendlyfire\1\g_allowvote\536871039\g_armbands\1\g_funstuff\1\g_instagib\0\sv_minRate\0\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_clientsPerIp\3\sv_dlURL\urbanterror.info\g_maxGameClients\0\g_gear\0\g_deadchat\1\g_walljumps\3\g_stamina\0\g_skins\1\g_stratTime\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut4_casa\sv_privateClients\0\ Admin\Rynos\ Email\ryan_alves@msn.com\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\0\auth_status\init\g_modversion\4.3.4
+Warmup:
+2 teams with 346 entities
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\0\auth_status\init\auth_cheaters\1\auth_tags\1\auth_notoriety\0\auth_groups\\auth_owners\\auth_verbosity\1
+auth: sending heartbeat 
+broadcast: print "Server: auth changed to 1\n"
+broadcast: print "Server: auth_status changed to public\n"
+-----------------------------------
+Hitch warning: 134555 msec frame time
+auth: sending heartbeat 
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.223:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 5.135.189.142:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com
+master.quake3arena.com resolved to 198.20.216.53:27900
+Sending heartbeat to master.quake3arena.com
+Hitch warning: 3275 msec frame time
+Hitch warning: 1220 msec frame time
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com
